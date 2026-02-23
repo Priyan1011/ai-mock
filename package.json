@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/google": "^1.1.25",
+    "@ai-sdk/google": "^3.0.30",
     "@hookform/resolvers": "^4.1.3",
     "@radix-ui/react-label": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.2",
-    "@vapi-ai/web": "^2.2.4",
-    "ai": "^4.1.61",
+    "@vapi-ai/web": "^2.5.2",
+    "ai": "^6.0.97",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
@@ -29,7 +29,7 @@
     "sonner": "^2.0.1",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.24.2"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
